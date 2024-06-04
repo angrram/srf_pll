@@ -1,4 +1,4 @@
-# One phase PLL SRF PLL
+# One/Single Phase (1-Ph)  SRF PLL
 
 ## Dependencies
 
