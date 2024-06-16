@@ -7,9 +7,9 @@
 
 ## Roadmap
 
-- [ ]  Angle Lock
-- [ ]  Frequency Lock
-- [ ]  Realtime Phase Fault Detection
+- [x]  Angle Lock
+- [x]  Frequency Lock
+- [x]  Realtime Phase Fault Detection
 - [ ]  Generated Code
 
 ## Authors
