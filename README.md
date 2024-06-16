@@ -23,7 +23,8 @@ The final results on the slx simulation:
 2-Locking into the same signalof 45Hz, frequency in Hz.
 ![image](https://github.com/angrram/srf_pll/assets/128910194/eb1925ee-ed76-481f-879d-67a4c5a72134)
 3-Angle of the signal as it is been lock.
-![image](https://github.com/angrram/srf_pll/assets/128910194/1e74628f-2c9f-4d07-9297-4d17bef78bac)
+![image](https://github.com/angrram/srf_pll/assets/128910194/c8fe657b-add1-4223-ab99-5302b761fbf8)
+
 
 
 
