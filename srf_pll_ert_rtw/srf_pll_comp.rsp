@@ -1,0 +1,10 @@
+﻿-IC:\Users\ASUSTUF\Desktop\sim\pll\1ph\srf_pll\slprj\ert\pd_nf_pi_dvco
+-IC:\Users\ASUSTUF\Desktop\sim\pll\1ph\srf_pll\slprj\ert\fault_detection
+-IC:\Users\ASUSTUF\Desktop\sim\pll\1ph\srf_pll
+-IC:\Users\ASUSTUF\Desktop\sim\pll\1ph\srf_pll\srf_pll_ert_rtw
+-I"C:\Program Files\MATLAB\R2023a\extern\include"
+-I"C:\Program Files\MATLAB\R2023a\simulink\include"
+-I"C:\Program Files\MATLAB\R2023a\rtw\c\src"
+-I"C:\Program Files\MATLAB\R2023a\rtw\c\src\ext_mode\common"
+-I"C:\Program Files\MATLAB\R2023a\rtw\c\ert"
+-IC:\Users\ASUSTUF\Desktop\sim\pll\1ph\srf_pll\slprj\ert\_sharedutils
