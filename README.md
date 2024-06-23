@@ -10,7 +10,9 @@
 - [x]  Angle Lock
 - [x]  Frequency Lock
 - [x]  Realtime Phase Fault Detection
-- [ ]  Generated Code
+- [x]  Generated Code
+- [x]  Code Merge on STM32F7 project
+- [x]  Tested
 
 ## Results
 The file srf_pll_proof_conc.mlx presents the algorithm implemented.
